@@ -1,0 +1,237 @@
+,Neighborhood,Count
+0,Albany Park,0
+1,Altgeld Gardens,0
+2,Andersonville,0
+3,Archer Heights,0
+4,Armour Square,1
+5,Ashburn,0
+6,Auburn Gresham,0
+7,Avalon Park,0
+8,Avondale,1
+9,Avondale Gardens,1
+10,Back of the Yards,0
+11,Belmont Central,1
+12,Belmont Gardens,1
+13,Belmont Heights,0
+14,Belmont Terrace,1
+15,Beverly,0
+16,Beverly View,0
+17,Beverly Woods,0
+18,Big Oaks,0
+19,Boystown,0
+20,Bowmanville,1
+21,Brainerd,0
+22,Brickyard,0
+23,Bridgeport,0
+24,Brighton Park,0
+25,Bronzeville,1
+26,Bucktown,0
+27,Budlong Woods,0
+28,Buena Park,0
+29,Burnside,0
+30,Cabrini–Green,0
+31,Calumet Heights,0
+32,Canaryville,0
+33,Central Station,0
+34,Chatham,0
+35,Chicago Lawn,0
+36,Chinatown,0
+37,Chrysler Village,0
+38,Clarendon Park,0
+39,Clearing East,0
+40,Clearing West,0
+41,Cragin,0
+42,Crestline,0
+43,Dearborn Homes,0
+44,Dearborn Park,0
+45,Douglas Park,0
+46,Dunning,0
+47,East Beverly,0
+48,East Chatham,0
+49,East Garfield Park,0
+50,East Hyde Park,1
+51,East Pilsen,0
+52,East Side,0
+53,East Village,0
+54,Eden Green,0
+55,Edgebrook,0
+56,Edgewater,1
+57,Edgewater Beach,1
+58,Edgewater Glen,1
+59,Edison Park,0
+60,Englewood,0
+61,Fernwood,0
+62,Fifth City,0
+63,Ford City,0
+64,Forest Glen,1
+65,Fuller Park,0
+66,Gage Park,0
+67,Galewood,0
+68,The Gap,0
+69,Garfield Ridge,0
+70,Gladstone Park,0
+71,Gold Coast,0
+72,Golden Gate,0
+73,Goose Island,0
+74,Graceland West,1
+75,Grand Boulevard,0
+76,Grand Crossing,0
+77,Greater Grand Crossing,0
+78,Greektown,0
+79,Gresham,0
+80,Groveland Park,0
+81,Hamilton Park,0
+82,Hanson Park,0
+83,Heart of Chicago,2
+84,Hegewisch,0
+85,Hermosa,0
+86,Hollywood Park,0
+87,Homan Square,0
+88,Humboldt Park,0
+89,Hyde Park,1
+90,Illinois Medical District,1
+91,Irving Park,0
+92,The Island,0
+93,Jackowo,1
+94,Jefferson Park,0
+95,K-Town,1
+96,Kelvyn Park,0
+97,Kennedy Park,0
+98,Kensington,0
+99,Kenwood,0
+100,Kilbourn Park,0
+101,Kosciuszko Park,0
+102,Lake Meadows,0
+103,Lake View,0
+104,Lake View East,0
+105,LeClaire Courts,0
+106,Lilydale,0
+107,Lincoln Park,1
+108,Lincoln Square,1
+109,Lithuanian Plaza,0
+110,Little Italy,0
+111,Little Village,0
+112,Logan Square,1
+113,Longwood Manor,0
+114,The Loop,0
+115,Lower West Side,0
+116,Loyola,0
+117,Magnificent Mile,0
+118,Margate Park,1
+119,Marquette Park,0
+120,Marshall Square,0
+121,Marynook,0
+122,Mayfair,1
+123,McKinley Park,0
+124,Merchant Park,1
+125,Montclare,0
+126,Morgan Park,0
+127,Mount Greenwood,0
+128,Museum Campus,0
+129,New Eastside,0
+130,Near North Side,0
+131,Near West Side,0
+132,New Chinatown,0
+133,New City,0
+134,Noble Square,1
+135,North Austin,0
+136,North Center,0
+137,North Halsted,0
+138,North Kenwood,0
+139,North Lawndale,0
+140,North Mayfair,0
+141,North Park,0
+142,Nortown,0
+143,Norwood Park East,0
+144,Norwood Park West,0
+145,Oakland,0
+146,O'Hare,0
+147,Old Edgebrook,0
+148,Old Irving Park,0
+149,Old Norwood,0
+150,Old Town,1
+151,Old Town Triangle,0
+152,Oriole Park,0
+153,Palmer Square,0
+154,Park Manor,0
+155,Park West,0
+156,Parkview,0
+157,Peterson Park,0
+158,Pill Hill,0
+159,Pilsen,0
+160,Polish Village,1
+161,Portage Park,0
+162,Prairie Avenue Historic District,0
+163,Prairie Shores,0
+164,Princeton Park,0
+165,Printer's Row,0
+166,Pulaski Park,0
+167,Pullman,0
+168,Ravenswood,0
+169,Ravenswood Gardens,2
+170,Ravenswood Manor,1
+171,River North,0
+172,River West,0
+173,River's Edge,0
+174,Riverdale,0
+175,Rogers Park,1
+176,Roscoe Village,0
+177,Rosehill,0
+178,Roseland,0
+179,Rosemoor,0
+180,Sauganash,1
+181,Schorsch Forest View,0
+182,Schorsch Village,0
+183,Scottsdale,0
+184,Sheridan Park,0
+185,Sleepy Hollow,0
+186,Smith Park,0
+187,South Austin,0
+188,South Chicago,0
+189,South Commons,0
+190,South Deering,0
+191,South East Ravenswood,0
+192,South Edgebrook,1
+193,South Lawndale,0
+194,South Loop,0
+195,South Shore,0
+196,Stateway Gardens,0
+197,Stony Island Park,0
+198,Streeterville,0
+199,Tri-Taylor,1
+200,Ukrainian Village,0
+201,Union Ridge,0
+202,University Village,0
+203,Uptown,0
+204,The Villa,0
+205,Vittum Park,0
+206,Washington Heights,0
+207,Washington Park,0
+208,Wentworth Gardens,0
+209,West Beverly,0
+210,West Chatham,0
+211,West Chesterfield,0
+212,West DePaul,1
+213,West Elsdon,0
+214,West Englewood,0
+215,West Garfield Park,0
+216,West Humboldt Park,0
+217,West Lakeview,1
+218,West Lawn,0
+219,West Loop,0
+220,West Morgan Park,0
+221,West Pullman,0
+222,West Ridge,17
+223,West Rogers Park,1
+224,West Town,2
+225,West Woodlawn,0
+226,Wicker Park,0
+227,Wildwood,0
+228,Woodlawn,0
+229,Wrightwood,0
+230,Wrigleyville,0
+231,Albany Park,0
+232,Altgeld Gardens,0
+233,Andersonville,0
+234,Archer Heights,0
+235,Armour Square,1
